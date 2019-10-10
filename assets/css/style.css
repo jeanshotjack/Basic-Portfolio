@@ -114,12 +114,21 @@ img {
 
 }
 
+input {
+    width: 900px;
+}
+
+textarea {
+    width: 900px;
+    height: 100px;
+}
+
 footer {
     clear: both;
     text-align: center;
     background-color: #666666;
     padding: 10px;
     color: #cccccc;
-    border-top: 10px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
