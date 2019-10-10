@@ -15,7 +15,12 @@ body {
     font-family: 'Georgia', Times, serif;
     color: #ffffff;
     background-color: #4aaaa5;
-    padding: 10px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 70px;
     float: left;
 }
 
@@ -35,6 +40,7 @@ body {
     background: url("../images/concrete-texture.png");
     background-size: auto;
     border-top: 1px solid #cccccc;
+    min-height: 100vh;
 }
 
 #main {
